@@ -1,0 +1,41 @@
+﻿@page "/Preguntas"
+@using Model 
+@using Newtonsoft.Json
+
+@code{
+
+
+    protected override void OnInitialized()
+    {
+        var jsonFilePath = BasePath("Preguntas.json");
+
+        // Lee el contenido del archivo JSON
+        var json = File.ReadAllText(jsonFilePath);
+
+ 
+
+    }
+    //Retornar path
+    public static string BasePath(string archivo)
+    {
+        string workingDirectory = Environment.CurrentDirectory;
+        string projectDirectory = Directory.GetParent(Environment.CurrentDirectory).Parent.Parent.FullName + "\\" + archivo;
+        return projectDirectory;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}

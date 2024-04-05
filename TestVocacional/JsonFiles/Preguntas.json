@@ -1,502 +1,502 @@
 [
   {
     "ID": 1,
-    "Texto": "1 �Aceptar�as trabajar escribiendo art�culos en la secci�n econ�mica de un diario?",
+    "Texto": "1 ¿Aceptarías trabajar escribiendo artículos en la sección económica de un diario?",
     "Respuesta": false
   },
   {
     "ID": 2,
-    "Texto": "2 �Te ofrecer�as para organizar la despedida de soltero de uno de tus amigos?",
+    "Texto": "2 ¿Te ofrecerías para organizar la despedida de soltero de uno de tus amigos?",
     "Respuesta": false
   },
   {
     "ID": 3,
-    "Texto": "3 �Te gustar�a dirigir/crear un proyecto de urbanizaci�n en tu provincia?",
+    "Texto": "3 ¿Te gustaría dirigir/crear un proyecto de urbanización en tu provincia?",
     "Respuesta": false
   },
   {
     "ID": 4,
-    "Texto": "4 �A una frustraci�n siempre opones un pensamiento positivo?",
+    "Texto": "4 ¿A una frustración siempre opones un pensamiento positivo?",
     "Respuesta": false
   },
   {
     "ID": 5,
-    "Texto": "5 �Te dedicar�as a socorrer a personas accidentadas o atacadas por asaltantes?",
+    "Texto": "5 ¿Te dedicarías a socorrer a personas accidentadas o atacadas por asaltantes?",
     "Respuesta": false
   },
   {
     "ID": 6,
-    "Texto": "6 �Cuando eras chico, te interesaba saber c�mo estaban construidos tus juguetes?",
+    "Texto": "6 ¿Cuando eras chico, te interesaba saber cómo estaban construidos tus juguetes?",
     "Respuesta": false
   },
   {
     "ID": 7,
-    "Texto": "7 �Te interesan m�s los misterios de la naturaleza que los secretos de la tecnolog�a?",
+    "Texto": "7 ¿Te interesan más los misterios de la naturaleza que los secretos de la tecnología?",
     "Respuesta": false
   },
   {
     "ID": 8,
-    "Texto": "8 �Escuchas atentamente los problemas que te plantean tus amigos?",
+    "Texto": "8 ¿Escuchas atentamente los problemas que te plantean tus amigos?",
     "Respuesta": false
   },
   {
     "ID": 9,
-    "Texto": "9 �Te ofrecer�as para explicar a tus compa�eros un determinado tema que ellos no entendieron?",
+    "Texto": "9 ¿Te ofrecerías para explicar a tus compañeros un determinado tema que ellos no entendieron?",
     "Respuesta": false
   },
   {
     "ID": 10,
-    "Texto": "10 �Eres exigente y cr�tico con tu equipo de trabajo?",
+    "Texto": "10 ¿Eres exigente y crítico con tu equipo de trabajo?",
     "Respuesta": false
   },
   {
     "ID": 11,
-    "Texto": "11 �Te atrae armar rompecabezas o puzzles?",
+    "Texto": "11 ¿Te atrae armar rompecabezas o puzzles?",
     "Respuesta": false
   },
   {
     "ID": 12,
-    "Texto": "12 �Te gustar�a conocer la diferencia entre macroeconom�a y microeconom�a?",
+    "Texto": "12 ¿Te gustaría conocer la diferencia entre macroeconomía y microeconomía?",
     "Respuesta": false
   },
   {
     "ID": 13,
-    "Texto": "13 �Usar uniforme te hace sentir distinto, importante?",
+    "Texto": "13 ¿Usar uniforme te hace sentir distinto, importante?",
     "Respuesta": false
   },
   {
     "ID": 14,
-    "Texto": "14 �Participar�as como profesional en un espect�culo de acrobacia a�rea?",
+    "Texto": "14 ¿Participarías como profesional en un espectáculo de acrobacia aérea?",
     "Respuesta": false
   },
   {
     "ID": 15,
-    "Texto": "15 �Organizas tu dinero de manera que te alcance hasta el pr�ximo cobro?",
+    "Texto": "15 ¿Organizas tu dinero de manera que te alcance hasta el próximo cobro?",
     "Respuesta": false
   },
   {
     "ID": 16,
-    "Texto": "16 �Convences f�cilmente a otras personas sobre la validez de tus argumentos?",
+    "Texto": "16 ¿Convences fácilmente a otras personas sobre la validez de tus argumentos?",
     "Respuesta": false
   },
   {
     "ID": 17,
-    "Texto": "17 �Te gustar�a estar informado sobre los nuevos descubrimientos que se est�n realizando sobre el origen del Universo?",
+    "Texto": "17 ¿Te gustaría estar informado sobre los nuevos descubrimientos que se están realizando sobre el origen del Universo?",
     "Respuesta": false
   },
   {
     "ID": 18,
-    "Texto": "18 �Ante una situaci�n de emergencia act�as r�pidamente?",
+    "Texto": "18 ¿Ante una situación de emergencia actúas rápidamente?",
     "Respuesta": false
   },
   {
     "ID": 19,
-    "Texto": "19 �Cuando tienes que resolver un problema matem�tico, perseveras hasta encontrar la soluci�n?",
+    "Texto": "19 ¿Cuando tienes que resolver un problema matemático, perseveras hasta encontrar la solución?",
     "Respuesta": false
   },
   {
     "ID": 20,
-    "Texto": "20 �Si te convocara tu club preferido para planificar, organizar y dirigir un campo de deportes, aceptar�as?",
+    "Texto": "20 ¿Si te convocara tu club preferido para planificar, organizar y dirigir un campo de deportes, aceptarías?",
     "Respuesta": false
   },
   {
     "ID": 21,
-    "Texto": "21 �Eres el que pone un toque de alegr�a en las fiestas?",
+    "Texto": "21 ¿Eres el que pone un toque de alegría en las fiestas?",
     "Respuesta": false
   },
   {
     "ID": 22,
-    "Texto": "22 �Crees que los detalles son tan importantes como el todo?",
+    "Texto": "22 ¿Crees que los detalles son tan importantes como el todo?",
     "Respuesta": false
   },
   {
     "ID": 23,
-    "Texto": "23 �Te sentir�as a gusto trabajando en un �mbito hospitalario?",
+    "Texto": "23 ¿Te sentirías a gusto trabajando en un ámbito hospitalario?",
     "Respuesta": false
   },
   {
     "ID": 24,
-    "Texto": "24 �Te gustar�a participar para mantener el orden ante grandes des�rdenes y cataclismos?",
+    "Texto": "24 ¿Te gustaría participar para mantener el orden ante grandes desórdenes y cataclismos?",
     "Respuesta": false
   },
   {
     "ID": 25,
-    "Texto": "25 �Pasar�as varias horas leyendo alg�n libro de tu inter�s?",
+    "Texto": "25 ¿Pasarías varias horas leyendo algún libro de tu interés?",
     "Respuesta": false
   },
   {
     "ID": 26,
-    "Texto": "26 �Planificas detalladamente tus trabajos antes de empezar?",
+    "Texto": "26 ¿Planificas detalladamente tus trabajos antes de empezar?",
     "Respuesta": false
   },
   {
     "ID": 27,
-    "Texto": "27 �Entablas una relaci�n casi personal con tu ordenador?",
+    "Texto": "27 ¿Entablas una relación casi personal con tu ordenador?",
     "Respuesta": false
   },
   {
     "ID": 28,
-    "Texto": "28 �Disfrutas modelando con arcilla?",
+    "Texto": "28 ¿Disfrutas modelando con arcilla?",
     "Respuesta": false
   },
   {
     "ID": 29,
-    "Texto": "29 �Ayudas habitualmente a los no videntes (a quien lo necesite) a cruzar la calle?",
+    "Texto": "29 ¿Ayudas habitualmente a los no videntes (a quien lo necesite) a cruzar la calle?",
     "Respuesta": false
   },
   {
     "ID": 30,
-    "Texto": "30 �Consideras importante que desde la educaci�n secundaria se fomente la actitud cr�tica y la participaci�n activa?",
+    "Texto": "30 ¿Consideras importante que desde la educación secundaria se fomente la actitud crítica y la participación activa?",
     "Respuesta": false
   },
   {
     "ID": 31,
-    "Texto": "31 �Aceptar�as que las mujeres formaran parte de las fuerzas armadas bajo las mismas normas que los hombres?",
+    "Texto": "31 ¿Aceptarías que las mujeres formaran parte de las fuerzas armadas bajo las mismas normas que los hombres?",
     "Respuesta": false
   },
   {
     "ID": 32,
-    "Texto": "32 �Te gustar�a crear nuevas t�cnicas para descubrir las patolog�as de algunas enfermedades a trav�s del microscopio?",
+    "Texto": "32 ¿Te gustaría crear nuevas técnicas para descubrir las patologías de algunas enfermedades a través del microscopio?",
     "Respuesta": false
   },
   {
     "ID": 33,
-    "Texto": "33 �Participar�as en una campa�a de prevenci�n contra la enfermedad como el sida?",
+    "Texto": "33 ¿Participarías en una campaña de prevención contra la enfermedad como el sida?",
     "Respuesta": false
   },
   {
     "ID": 34,
-    "Texto": "34 �Te interesan los temas relacionados al pasado y a la evoluci�n del hombre?",
+    "Texto": "34 ¿Te interesan los temas relacionados al pasado y a la evolución del hombre?",
     "Respuesta": false
   },
   {
     "ID": 35,
-    "Texto": "35 �Te incluir�as en un proyecto de investigaci�n de los movimientos s�smicos y sus consecuencias?",
+    "Texto": "35 ¿Te incluirías en un proyecto de investigación de los movimientos sísmicos y sus consecuencias?",
     "Respuesta": false
   },
   {
     "ID": 36,
-    "Texto": "36 �Fuera de los horarios escolares, dedicas alg�n d�a de la semana a la realizaci�n de actividades corporales?",
+    "Texto": "36 ¿Fuera de los horarios escolares, dedicas algún día de la semana a la realización de actividades corporales?",
     "Respuesta": false
   },
   {
     "ID": 37,
-    "Texto": "37 �Te interesan las actividades de mucha acci�n y de reacci�n r�pida en situaciones imprevistas y de alg�n peligro?",
+    "Texto": "37 ¿Te interesan las actividades de mucha acción y de reacción rápida en situaciones imprevistas y de algún peligro?",
     "Respuesta": false
   },
   {
     "ID": 38,
-    "Texto": "38 �Te ofrecer�as para colaborar como voluntario en los gabinetes espaciales de la NASA?",
+    "Texto": "38 ¿Te ofrecerías para colaborar como voluntario en los gabinetes espaciales de la NASA?",
     "Respuesta": false
   },
   {
     "ID": 39,
-    "Texto": "39 �Te gusta m�s el trabajo manual que el trabajo intelectual?",
+    "Texto": "39 ¿Te gusta más el trabajo manual que el trabajo intelectual?",
     "Respuesta": false
   },
   {
     "ID": 40,
-    "Texto": "40 �Estar�as dispuesto a renunciar a un momento placentero para ofrecer tu servicio como profesional (ayudando)?",
+    "Texto": "40 ¿Estarías dispuesto a renunciar a un momento placentero para ofrecer tu servicio como profesional (ayudando)?",
     "Respuesta": false
   },
   {
     "ID": 41,
-    "Texto": "41 �Participar�as de una investigaci�n sobre la violencia en el f�tbol?",
+    "Texto": "41 ¿Participarías de una investigación sobre la violencia en el fútbol?",
     "Respuesta": false
   },
   {
     "ID": 42,
-    "Texto": "42 �Te gustar�a trabajar en un laboratorio mientras estudias?",
+    "Texto": "42 ¿Te gustaría trabajar en un laboratorio mientras estudias?",
     "Respuesta": false
   },
   {
     "ID": 43,
-    "Texto": "43 �Arriesgar�as tu vida para salvar la vida de otro que no conoces?",
+    "Texto": "43 ¿Arriesgarías tu vida para salvar la vida de otro que no conoces?",
     "Respuesta": false
   },
   {
     "ID": 44,
-    "Texto": "44 �Te agradar�a hacer un curso de primeros auxilios?",
+    "Texto": "44 ¿Te agradaría hacer un curso de primeros auxilios?",
     "Respuesta": false
   },
   {
     "ID": 45,
-    "Texto": "45 �Tolerar�as empezar tantas veces como fuere necesario hasta obtener el logro deseado?",
+    "Texto": "45 ¿Tolerarías empezar tantas veces como fuere necesario hasta obtener el logro deseado?",
     "Respuesta": false
   },
   {
     "ID": 46,
-    "Texto": "46 �Distribuyes tu horarios del d�a adecuadamente para poder hacer todo lo planeado?",
+    "Texto": "46 ¿Distribuyes tu horarios del día adecuadamente para poder hacer todo lo planeado?",
     "Respuesta": false
   },
   {
     "ID": 47,
-    "Texto": "47 �Har�as un curso para aprender a fabricar los instrumentos y/o piezas de las m�quinas o aparatos con que trabajas?",
+    "Texto": "47 ¿Harías un curso para aprender a fabricar los instrumentos y/o piezas de las máquinas o aparatos con que trabajas?",
     "Respuesta": false
   },
   {
     "ID": 48,
-    "Texto": "48 �Elegir�as una profesi�n en la tuvieras que estar algunos meses alejado de tu familia, por ejemplo el marino?",
+    "Texto": "48 ¿Elegirías una profesión en la tuvieras que estar algunos meses alejado de tu familia, por ejemplo el marino?",
     "Respuesta": false
   },
   {
     "ID": 49,
-    "Texto": "49 �Te radicar�as en una zona agr�cola-ganadera para desarrollar tus actividades como profesional?",
+    "Texto": "49 ¿Te radicarías en una zona agrícola-ganadera para desarrollar tus actividades como profesional?",
     "Respuesta": false
   },
   {
     "ID": 50,
-    "Texto": "50 �Cuando est�s en un grupo trabajando, te entusiasma producir ideas originales y que sean tenidas en cuenta?",
+    "Texto": "50 ¿Cuando estás en un grupo trabajando, te entusiasma producir ideas originales y que sean tenidas en cuenta?",
     "Respuesta": false
   },
   {
     "ID": 51,
-    "Texto": "51 �Te resulta f�cil coordinar un grupo de trabajo?",
+    "Texto": "51 ¿Te resulta fácil coordinar un grupo de trabajo?",
     "Respuesta": false
   },
   {
     "ID": 52,
-    "Texto": "52 �Te result� interesante el estudio de las ciencias biol�gicas?",
+    "Texto": "52 ¿Te resultó interesante el estudio de las ciencias biológicas?",
     "Respuesta": false
   },
   {
     "ID": 53,
-    "Texto": "53 �Si una gran empresa solicita un profesional como gerente de comercializaci�n, te sentir�as a gusto desempe�ando ese rol?",
+    "Texto": "53 ¿Si una gran empresa solicita un profesional como gerente de comercialización, te sentirías a gusto desempeñando ese rol?",
     "Respuesta": false
   },
   {
     "ID": 54,
-    "Texto": "54 �Te incluir�as en un proyecto nacional de desarrollo de la principal fuente de recursos de tu provincia?",
+    "Texto": "54 ¿Te incluirías en un proyecto nacional de desarrollo de la principal fuente de recursos de tu provincia?",
     "Respuesta": false
   },
   {
     "ID": 55,
-    "Texto": "55 �Tienes inter�s por saber cuales son las causas que determinan ciertos fen�menos, aunque saberlo no altere tu vida?",
+    "Texto": "55 ¿Tienes interés por saber cuales son las causas que determinan ciertos fenómenos, aunque saberlo no altere tu vida?",
     "Respuesta": false
   },
   {
     "ID": 56,
-    "Texto": "56 �Descubriste alg�n fil�sofo o escritor que haya expresado tus mismas ideas con antelaci�n?",
+    "Texto": "56 ¿Descubriste algún filósofo o escritor que haya expresado tus mismas ideas con antelación?",
     "Respuesta": false
   },
   {
     "ID": 57,
-    "Texto": "57 �Desear�as que te regalen alg�n instrumento musical para tu cumplea�os?",
+    "Texto": "57 ¿Desearías que te regalen algún instrumento musical para tu cumpleaños?",
     "Respuesta": false
   },
   {
     "ID": 58,
-    "Texto": "58 �Aceptar�as colaborar con el cumplimiento de las normas en lugares p�blicos?",
+    "Texto": "58 ¿Aceptarías colaborar con el cumplimiento de las normas en lugares públicos?",
     "Respuesta": false
   },
   {
     "ID": 59,
-    "Texto": "59 �Crees que tus ideas son importantes, y haces todo lo posible para ponerlas en pr�ctica?",
+    "Texto": "59 ¿Crees que tus ideas son importantes, y haces todo lo posible para ponerlas en práctica?",
     "Respuesta": false
   },
   {
     "ID": 60,
-    "Texto": "60 �Cuando se descompone un artefacto en tu casa, te dispones prontamente a repararlo?",
+    "Texto": "60 ¿Cuando se descompone un artefacto en tu casa, te dispones prontamente a repararlo?",
     "Respuesta": false
   },
   {
     "ID": 61,
-    "Texto": "61 �Formar�as parte de un equipo de trabajo orientado a la preservaci�n de la flora y la fauna en extinci�n?",
+    "Texto": "61 ¿Formarías parte de un equipo de trabajo orientado a la preservación de la flora y la fauna en extinción?",
     "Respuesta": false
   },
   {
     "ID": 62,
-    "Texto": "62 �Leer�as revistas relacionadas con los �ltimos avances cient�ficos y tecnol�gicos en el �rea de la salud?",
+    "Texto": "62 ¿Leerías revistas relacionadas con los últimos avances científicos y tecnológicos en el área de la salud?",
     "Respuesta": false
   },
   {
     "ID": 63,
-    "Texto": "63 �Preservar las ra�ces culturales de nuestro pa�s, te parece importante y necesario?",
+    "Texto": "63 ¿Preservar las raíces culturales de nuestro país, te parece importante y necesario?",
     "Respuesta": false
   },
   {
     "ID": 64,
-    "Texto": "64 �Te gustar�a realizar una investigaci�n que contribuyera a hacer m�s justa la distribuci�n de la riqueza?",
+    "Texto": "64 ¿Te gustaría realizar una investigación que contribuyera a hacer más justa la distribución de la riqueza?",
     "Respuesta": false
   },
   {
     "ID": 65,
-    "Texto": "65 �Te gustar�a realizar tareas auxiliares en una nave, como por ejemplo izado y arriado de velas, pintura y conservaci�n del casco, arreglo de aver�as, conservaci�n de motores, etc.?",
+    "Texto": "65 ¿Te gustaría realizar tareas auxiliares en una nave, como por ejemplo izado y arriado de velas, pintura y conservación del casco, arreglo de averías, conservación de motores, etc.?",
     "Respuesta": false
   },
   {
     "ID": 66,
-    "Texto": "66 �Crees que un pa�s debe poseer la m�s alta tecnolog�a armamentista, a cualquier precio?",
+    "Texto": "66 ¿Crees que un país debe poseer la más alta tecnología armamentista, a cualquier precio?",
     "Respuesta": false
   },
   {
     "ID": 67,
-    "Texto": "67 �La libertad y la justicia son valores fundamentales en tu vida?",
+    "Texto": "67 ¿La libertad y la justicia son valores fundamentales en tu vida?",
     "Respuesta": false
   },
   {
     "ID": 68,
-    "Texto": "68 �Aceptar�as hacer una pr�ctica pagadas en una industria de productos alimenticios en el sector de control de calidad?",
-    "Respuesta": false
+    "Respuesta": false,
+    "Texto": "68 ¿Aceptarías hacer una práctica pagadas en una industria de productos alimenticios en el sector de control de calidad?"
   },
   {
     "ID": 69,
-    "Texto": "69 �Consideras que la salud p�blica debe ser prioritaria, gratuita y eficiente para todos?",
+    "Texto": "69 ¿Consideras que la salud pública debe ser prioritaria, gratuita y eficiente para todos?",
     "Respuesta": false
   },
   {
     "ID": 70,
-    "Texto": "70 �Te interesar�a investigar sobre alguna nueva vacuna?",
+    "Texto": "70 ¿Te interesaría investigar sobre alguna nueva vacuna?",
     "Respuesta": false
   },
   {
     "ID": 71,
-    "Texto": "71 �En un equipo de trabajo, prefer�s el rol de coordinador?",
+    "Texto": "71 ¿En un equipo de trabajo, preferís el rol de coordinador?",
     "Respuesta": false
   },
   {
     "ID": 72,
-    "Texto": "72 �En una discusi�n entre amigos, te ofreces como mediador?",
+    "Texto": "72 ¿En una discusión entre amigos, te ofreces como mediador?",
     "Respuesta": false
   },
   {
     "ID": 73,
-    "Texto": "73 �Est�s de acuerdo con la formaci�n de un cuerpo de soldados profesionales?",
+    "Texto": "73 ¿Estás de acuerdo con la formación de un cuerpo de soldados profesionales?",
     "Respuesta": false
   },
   {
     "ID": 74,
-    "Texto": "74 �Luchar�as por una causa justa hasta las �ltimas consecuencias?",
+    "Texto": "74 ¿Lucharías por una causa justa hasta las últimas consecuencias?",
     "Respuesta": false
   },
   {
     "ID": 75,
-    "Texto": "75 �Te gustar�a investigar cient�ficamente sobre cultivos agr�colas?",
+    "Texto": "75 ¿Te gustaría investigar científicamente sobre cultivos agrícolas?",
     "Respuesta": false
   },
   {
     "ID": 76,
-    "Texto": "76 �Har�as un nuevo dise�o de una prenda pasada de moda, ante una reuni�n?",
+    "Texto": "76 ¿Harías un nuevo diseño de una prenda pasada de moda, ante una reunión?",
     "Respuesta": false
   },
   {
     "ID": 77,
-    "Texto": "77 �Visitar�as un observatorio astron�mico para conocer en acci�n el funcionamiento de los aparatos?",
+    "Texto": "77 ¿Visitarías un observatorio astronómico para conocer en acción el funcionamiento de los aparatos?",
     "Respuesta": false
   },
   {
     "ID": 78,
-    "Texto": "78 �Dirigir�as el �rea de importaci�n y exportaci�n de una empresa?",
+    "Texto": "78 ¿Dirigirías el área de importación y exportación de una empresa?",
     "Respuesta": false
   },
   {
     "ID": 79,
-    "Texto": "79 �Te coh�bes/inhibes �cortas- al entrar a un lugar nuevo con gente desconocida?",
+    "Texto": "79 ¿Te cohibes/inhibes ¿cortas- al entrar a un lugar nuevo con gente desconocida?",
     "Respuesta": false
   },
   {
     "ID": 80,
-    "Texto": "80 �Te gratificar�a el trabajar con ni�os?",
+    "Texto": "80 ¿Te gratificaría el trabajar con niños?",
     "Respuesta": false
   },
   {
     "ID": 81,
-    "Texto": "81 �Har�as el dise�o de un cartel o afiche para una campa�a contra el sida?",
+    "Texto": "81 ¿Harías el diseño de un cartel o afiche para una campaña contra el sida?",
     "Respuesta": false
   },
   {
     "ID": 82,
-    "Texto": "82 �Dirigir�as un grupo de teatro independiente?",
+    "Texto": "82 ¿Dirigirías un grupo de teatro independiente?",
     "Respuesta": false
   },
   {
     "ID": 83,
-    "Texto": "83 �Enviar�as tu curriculum a una empresa automotriz que solicita gerente para su �rea de producci�n?",
+    "Texto": "83 ¿Enviarías tu currículum a una empresa automotriz que solicita gerente para su área de producción?",
     "Respuesta": false
   },
   {
     "ID": 84,
-    "Texto": "84 �Participar�as en un grupo de defensa internacional dentro de alguna fuerza armada?",
+    "Texto": "84 ¿Participarías en un grupo de defensa internacional dentro de alguna fuerza armada?",
     "Respuesta": false
   },
   {
     "ID": 85,
-    "Texto": "85 �Te costear�as tus estudios trabajando en una auditor�a �revisi�n de las cuentas-?",
+    "Texto": "85 ¿Te costearías tus estudios trabajando en una auditoría ¿revisión de las cuentas-?",
     "Respuesta": false
   },
   {
     "ID": 86,
-    "Texto": "86 �Eres de los que defiendes causas perdidas?",
+    "Texto": "86 ¿Eres de los que defiendes causas perdidas?",
     "Respuesta": false
   },
   {
     "ID": 87,
-    "Texto": "87 �Ante una emergencia epid�mica participar�as en una campa�a brindando tu ayuda?",
+    "Texto": "87 ¿Ante una emergencia epidémica participarías en una campaña brindando tu ayuda?",
     "Respuesta": false
   },
   {
     "ID": 88,
-    "Texto": "88 �Sabr�as responder que significa ADN o ARN? Se trata de un concepto econ�mico. �Te gusta este tipo de tema?",
+    "Texto": "88 ¿Sabrías responder que significa ADN o ARN? Se trata de un concepto económico. ¿Te gusta este tipo de tema?",
     "Respuesta": false
   },
   {
     "ID": 89,
-    "Texto": "89 �Elegir�as una carrera cuyo instrumento de trabajo fuere la utilizaci�n de un idioma extranjero?",
+    "Texto": "89 ¿Elegirías una carrera cuyo instrumento de trabajo fuere la utilización de un idioma extranjero?",
     "Respuesta": false
   },
   {
     "ID": 90,
-    "Texto": "90 �Trabajar con objetos, m�quinas, te resulta m�s gratificante que trabajar con personas?",
+    "Texto": "90 ¿Trabajar con objetos, máquinas, te resulta más gratificante que trabajar con personas?",
     "Respuesta": false
   },
   {
     "ID": 91,
-    "Texto": "91 �Te resultar�a gratificante ser asesor contable en una empresa reconocida?",
+    "Texto": "91 ¿Te resultaría gratificante ser asesor contable en una empresa reconocida?",
     "Respuesta": false
   },
   {
     "ID": 92,
-    "Texto": "92 �Ante un llamado solidario, te ofrecer�as para cuidar a un enfermo?",
+    "Texto": "92 ¿Ante un llamado solidario, te ofrecerías para cuidar a un enfermo?",
     "Respuesta": false
   },
   {
     "ID": 93,
-    "Texto": "93 �Te atrae investigar sobre los misterios del universo, por ejemplo los agujeros negros?",
+    "Texto": "93 ¿Te atrae investigar sobre los misterios del universo, por ejemplo los agujeros negros?",
     "Respuesta": false
   },
   {
     "ID": 94,
-    "Texto": "94 �El trabajo individual te resulta m�s r�pido y efectivo que el trabajo grupal?",
+    "Texto": "94 ¿El trabajo individual te resulta más rápido y efectivo que el trabajo grupal?",
     "Respuesta": false
   },
   {
     "ID": 95,
-    "Texto": "95 �Dedicar�as parte de tu tiempo a ayudar a personas con carencias o necesitadas?",
+    "Texto": "95 ¿Dedicarías parte de tu tiempo a ayudar a personas con carencias o necesitadas?",
     "Respuesta": false
   },
   {
     "ID": 96,
-    "Texto": "96 �Cuando eliges tu ropa o decoras un ambiente, tienes en cuenta la combinaci�n de los colores, las telas o el estilo de los muebles?",
+    "Texto": "96 ¿Cuando eliges tu ropa o decoras un ambiente, tienes en cuenta la combinación de los colores, las telas o el estilo de los muebles?",
     "Respuesta": false
   },
   {
     "ID": 97,
-    "Texto": "97 �Te gustar�a conocer m�s sobre el fondo del mar, los animales marinos, etc.?",
+    "Texto": "97 ¿Te gustaría conocer más sobre el fondo del mar, los animales marinos, etc.?",
     "Respuesta": false
   },
   {
     "ID": 98,
-    "Texto": "98 �Te gustar�a ser un l�der empresarial reconocido en el medio?",
+    "Texto": "98 ¿Te gustaría ser un líder empresarial reconocido en el medio?",
     "Respuesta": false
   },
   {
     "ID": 99,
-    "Texto": "99 �Participar�as en una investigaci�n sobre el reciclado de los residuos s�lidos urbanos?",
+    "Texto": "99 ¿Participarías en una investigación sobre el reciclado de los residuos sólidos urbanos?",
     "Respuesta": false
   },
   {
     "ID": 100,
-    "Texto": "100 �Te interesa saber c�mo funcionan los procesos que se producen en tu organismo?",
+    "Texto": "100 ¿Te interesa saber cómo funcionan los procesos que se producen en tu organismo?",
     "Respuesta": false
   }
 ]

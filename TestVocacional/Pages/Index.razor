@@ -1,4 +1,8 @@
 ﻿@page "/"
+@using Model
+@using Newtonsoft.Json
+@using TestVocacional.Extensions
+
 
 <PageTitle>Index</PageTitle>
 
@@ -6,4 +10,47 @@
 
 Welcome to your new app.
 
-<SurveyPrompt Title="How is Blazor working for you?" />
+
+
+@code {
+    List<Pregunta> preguntas = new List<Pregunta>();
+    List<Interes> intereses = new List<Interes>();
+    List<Interes> aptitudes = new List<Interes>();
+
+    protected override void OnInitialized()
+    {
+        preguntas = LeerJsonPreguntas("Preguntas.json");
+        intereses = LeerJsonIntereses("Intereses.json");
+        aptitudes = LeerJsonAptitudes("Aptitudes.json");
+    }
+
+    public List<Pregunta> LeerJsonPreguntas(string archivo)
+    {
+        string workingDirectory = Environment.CurrentDirectory + "\\JsonFiles\\" + archivo;
+        string jsonContent = File.ReadAllText(workingDirectory);
+        List<Pregunta> preguntas = JsonConvert.DeserializeObject<List<Pregunta>>(jsonContent);
+        return preguntas;
+    }
+    
+    public List<Interes> LeerJsonIntereses(string archivo)
+    {
+        string workingDirectory = Environment.CurrentDirectory + "\\JsonFiles\\" + archivo;
+        string jsonContent = File.ReadAllText(workingDirectory);
+        List<Interes> preguntas = JsonConvert.DeserializeObject<List<Interes>>(jsonContent);
+        return preguntas;
+    }
+    
+    public List<Interes> LeerJsonAptitudes(string archivo)
+    {
+        string workingDirectory = Environment.CurrentDirectory + "\\JsonFiles\\" + archivo;
+        string jsonContent = File.ReadAllText(workingDirectory);
+        List<Interes> preguntas = JsonConvert.DeserializeObject<List<Interes>>(jsonContent);
+        return preguntas;
+    }
+
+    public void CalcularOrientacion()
+    {
+        var resultintereses = preguntas.VerificarRespuestas(intereses);
+        var resulaptitudes = preguntas.VerificarRespuestas(aptitudes);
+    }
+}

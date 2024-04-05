@@ -2,7 +2,25 @@
 @using Model 
 @using Newtonsoft.Json
 
+<div class="container">
+    <div class="row">
+        <div class="col-8" >
+            @foreach (var pregunta in preguntas)
+            {
+                <div class="pregunta m-4" style="border: 1px solid">
+                    <p class="my-auto">@pregunta.Texto</p>
+                </div>
+            }
+        </div>
+        <div class="col-4">
 
+        </div>
+
+    </div>
+    <div style="border: 1px solid">
+
+    </div>
+</div>
 
 
 

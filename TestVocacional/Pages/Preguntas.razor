@@ -2,40 +2,27 @@
 @using Model 
 @using Newtonsoft.Json
 
-@code{
 
+
+
+
+
+
+
+@code{
+    List<Pregunta> preguntas = new List<Pregunta>();
 
     protected override void OnInitialized()
     {
-        var jsonFilePath = BasePath("Preguntas.json");
-
-        // Lee el contenido del archivo JSON
-        var json = File.ReadAllText(jsonFilePath);
-
- 
-
+        preguntas = LeerJsonPreguntas("Preguntas.json");
     }
+
     //Retornar path
-    public static string BasePath(string archivo)
+    public List<Pregunta> LeerJsonPreguntas(string archivo)
     {
-        string workingDirectory = Environment.CurrentDirectory;
-        string projectDirectory = Directory.GetParent(Environment.CurrentDirectory).Parent.Parent.FullName + "\\" + archivo;
-        return projectDirectory;
+        string workingDirectory = Environment.CurrentDirectory + "\\JsonFiles\\" + archivo;
+        string jsonContent = File.ReadAllText(workingDirectory);
+        List<Pregunta> preguntas = JsonConvert.DeserializeObject<List<Pregunta>>(jsonContent);
+        return preguntas;
     }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 }

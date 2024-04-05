@@ -1,296 +1,502 @@
 [
   {
-    "pregunta": "1 �Aceptar�as trabajar escribiendo art�culos en la secci�n econ�mica de un diario?"
+    "ID": 1,
+    "Texto": "1 �Aceptar�as trabajar escribiendo art�culos en la secci�n econ�mica de un diario?",
+    "Respuesta": false
   },
   {
-    "pregunta": "2 �Te ofrecer�as para organizar la despedida de soltero de uno de tus amigos?"
+    "ID": 2,
+    "Texto": "2 �Te ofrecer�as para organizar la despedida de soltero de uno de tus amigos?",
+    "Respuesta": false
   },
   {
-    "pregunta": "3 �Te gustar�a dirigir/crear un proyecto de urbanizaci�n en tu provincia?"
+    "ID": 3,
+    "Texto": "3 �Te gustar�a dirigir/crear un proyecto de urbanizaci�n en tu provincia?",
+    "Respuesta": false
   },
   {
-    "pregunta": "4 �A una frustraci�n siempre opones un pensamiento positivo?"
+    "ID": 4,
+    "Texto": "4 �A una frustraci�n siempre opones un pensamiento positivo?",
+    "Respuesta": false
   },
   {
-    "pregunta": "5 �Te dedicar�as a socorrer a personas accidentadas o atacadas por asaltantes?"
+    "ID": 5,
+    "Texto": "5 �Te dedicar�as a socorrer a personas accidentadas o atacadas por asaltantes?",
+    "Respuesta": false
   },
   {
-    "pregunta": "6 �Cuando eras chico, te interesaba saber c�mo estaban construidos tus juguetes?"
+    "ID": 6,
+    "Texto": "6 �Cuando eras chico, te interesaba saber c�mo estaban construidos tus juguetes?",
+    "Respuesta": false
   },
   {
-    "pregunta": "7 �Te interesan m�s los misterios de la naturaleza que los secretos de la tecnolog�a?"
+    "ID": 7,
+    "Texto": "7 �Te interesan m�s los misterios de la naturaleza que los secretos de la tecnolog�a?",
+    "Respuesta": false
   },
   {
-    "pregunta": "8 �Escuchas atentamente los problemas que te plantean tus amigos?"
+    "ID": 8,
+    "Texto": "8 �Escuchas atentamente los problemas que te plantean tus amigos?",
+    "Respuesta": false
   },
   {
-    "pregunta": "9 �Te ofrecer�as para explicar a tus compa�eros un determinado tema que ellos no entendieron?"
+    "ID": 9,
+    "Texto": "9 �Te ofrecer�as para explicar a tus compa�eros un determinado tema que ellos no entendieron?",
+    "Respuesta": false
   },
   {
-    "pregunta": "10 �Eres exigente y cr�tico con tu equipo de trabajo?"
+    "ID": 10,
+    "Texto": "10 �Eres exigente y cr�tico con tu equipo de trabajo?",
+    "Respuesta": false
   },
   {
-    "pregunta": "11 �Te atrae armar rompecabezas o puzzles?"
+    "ID": 11,
+    "Texto": "11 �Te atrae armar rompecabezas o puzzles?",
+    "Respuesta": false
   },
   {
-    "pregunta": "12 �Te gustar�a conocer la diferencia entre macroeconom�a y microeconom�a?"
+    "ID": 12,
+    "Texto": "12 �Te gustar�a conocer la diferencia entre macroeconom�a y microeconom�a?",
+    "Respuesta": false
   },
   {
-    "pregunta": "13 �Usar uniforme te hace sentir distinto, importante?"
+    "ID": 13,
+    "Texto": "13 �Usar uniforme te hace sentir distinto, importante?",
+    "Respuesta": false
   },
   {
-    "pregunta": "14 �Participar�as como profesional en un espect�culo de acrobacia a�rea?"
+    "ID": 14,
+    "Texto": "14 �Participar�as como profesional en un espect�culo de acrobacia a�rea?",
+    "Respuesta": false
   },
   {
-    "pregunta": "15 �Organizas tu dinero de manera que te alcance hasta el pr�ximo cobro?"
+    "ID": 15,
+    "Texto": "15 �Organizas tu dinero de manera que te alcance hasta el pr�ximo cobro?",
+    "Respuesta": false
   },
   {
-    "pregunta": "16 �Convences f�cilmente a otras personas sobre la validez de tus argumentos?"
+    "ID": 16,
+    "Texto": "16 �Convences f�cilmente a otras personas sobre la validez de tus argumentos?",
+    "Respuesta": false
   },
   {
-    "pregunta": "17 �Te gustar�a estar informado sobre los nuevos descubrimientos que se est�n realizando sobre el origen del Universo?"
+    "ID": 17,
+    "Texto": "17 �Te gustar�a estar informado sobre los nuevos descubrimientos que se est�n realizando sobre el origen del Universo?",
+    "Respuesta": false
   },
   {
-    "pregunta": "18 �Ante una situaci�n de emergencia act�as r�pidamente?"
+    "ID": 18,
+    "Texto": "18 �Ante una situaci�n de emergencia act�as r�pidamente?",
+    "Respuesta": false
   },
   {
-    "pregunta": "19 �Cuando tienes que resolver un problema matem�tico, perseveras hasta encontrar la soluci�n?"
+    "ID": 19,
+    "Texto": "19 �Cuando tienes que resolver un problema matem�tico, perseveras hasta encontrar la soluci�n?",
+    "Respuesta": false
   },
   {
-    "pregunta": "20 �Si te convocara tu club preferido para planificar, organizar y dirigir un campo de deportes, aceptar�as?"
+    "ID": 20,
+    "Texto": "20 �Si te convocara tu club preferido para planificar, organizar y dirigir un campo de deportes, aceptar�as?",
+    "Respuesta": false
   },
   {
-    "pregunta": "21 �Eres el que pone un toque de alegr�a en las fiestas?"
+    "ID": 21,
+    "Texto": "21 �Eres el que pone un toque de alegr�a en las fiestas?",
+    "Respuesta": false
   },
   {
-    "pregunta": "22 �Crees que los detalles son tan importantes como el todo?"
+    "ID": 22,
+    "Texto": "22 �Crees que los detalles son tan importantes como el todo?",
+    "Respuesta": false
   },
   {
-    "pregunta": "23 �Te sentir�as a gusto trabajando en un �mbito hospitalario?"
+    "ID": 23,
+    "Texto": "23 �Te sentir�as a gusto trabajando en un �mbito hospitalario?",
+    "Respuesta": false
   },
   {
-    "pregunta": "24 �Te gustar�a participar para mantener el orden ante grandes des�rdenes y cataclismos?"
+    "ID": 24,
+    "Texto": "24 �Te gustar�a participar para mantener el orden ante grandes des�rdenes y cataclismos?",
+    "Respuesta": false
   },
   {
-    "pregunta": "25 �Pasar�as varias horas leyendo alg�n libro de tu inter�s?"
+    "ID": 25,
+    "Texto": "25 �Pasar�as varias horas leyendo alg�n libro de tu inter�s?",
+    "Respuesta": false
   },
   {
-    "pregunta": "26 �Planificas detalladamente tus trabajos antes de empezar?"
+    "ID": 26,
+    "Texto": "26 �Planificas detalladamente tus trabajos antes de empezar?",
+    "Respuesta": false
   },
   {
-    "pregunta": "27 �Entablas una relaci�n casi personal con tu ordenador?"
+    "ID": 27,
+    "Texto": "27 �Entablas una relaci�n casi personal con tu ordenador?",
+    "Respuesta": false
   },
   {
-    "pregunta": "28 �Disfrutas modelando con arcilla?"
+    "ID": 28,
+    "Texto": "28 �Disfrutas modelando con arcilla?",
+    "Respuesta": false
   },
   {
-    "pregunta": "29 �Ayudas habitualmente a los no videntes (a quien lo necesite) a cruzar la calle?"
+    "ID": 29,
+    "Texto": "29 �Ayudas habitualmente a los no videntes (a quien lo necesite) a cruzar la calle?",
+    "Respuesta": false
   },
   {
-    "pregunta": "30 �Consideras importante que desde la educaci�n secundaria se fomente la actitud cr�tica y la participaci�n activa?"
+    "ID": 30,
+    "Texto": "30 �Consideras importante que desde la educaci�n secundaria se fomente la actitud cr�tica y la participaci�n activa?",
+    "Respuesta": false
   },
   {
-    "pregunta": "31 �Aceptar�as que las mujeres formaran parte de las fuerzas armadas bajo las mismas normas que los hombres?"
+    "ID": 31,
+    "Texto": "31 �Aceptar�as que las mujeres formaran parte de las fuerzas armadas bajo las mismas normas que los hombres?",
+    "Respuesta": false
   },
   {
-    "pregunta": "32 �Te gustar�a crear nuevas t�cnicas para descubrir las patolog�as de algunas enfermedades a trav�s del microscopio?"
+    "ID": 32,
+    "Texto": "32 �Te gustar�a crear nuevas t�cnicas para descubrir las patolog�as de algunas enfermedades a trav�s del microscopio?",
+    "Respuesta": false
   },
   {
-    "pregunta": "33 �Participar�as en una campa�a de prevenci�n contra la enfermedad como el sida?"
+    "ID": 33,
+    "Texto": "33 �Participar�as en una campa�a de prevenci�n contra la enfermedad como el sida?",
+    "Respuesta": false
   },
   {
-    "pregunta": "34 �Te interesan los temas relacionados al pasado y a la evoluci�n del hombre?"
+    "ID": 34,
+    "Texto": "34 �Te interesan los temas relacionados al pasado y a la evoluci�n del hombre?",
+    "Respuesta": false
   },
   {
-    "pregunta": "35 �Te incluir�as en un proyecto de investigaci�n de los movimientos s�smicos y sus consecuencias?"
+    "ID": 35,
+    "Texto": "35 �Te incluir�as en un proyecto de investigaci�n de los movimientos s�smicos y sus consecuencias?",
+    "Respuesta": false
   },
   {
-    "pregunta": "36 �Fuera de los horarios escolares, dedicas alg�n d�a de la semana a la realizaci�n de actividades corporales?"
+    "ID": 36,
+    "Texto": "36 �Fuera de los horarios escolares, dedicas alg�n d�a de la semana a la realizaci�n de actividades corporales?",
+    "Respuesta": false
   },
   {
-    "pregunta": "37 �Te interesan las actividades de mucha acci�n y de reacci�n r�pida en situaciones imprevistas y de alg�n peligro?"
+    "ID": 37,
+    "Texto": "37 �Te interesan las actividades de mucha acci�n y de reacci�n r�pida en situaciones imprevistas y de alg�n peligro?",
+    "Respuesta": false
   },
   {
-    "pregunta": "38 �Te ofrecer�as para colaborar como voluntario en los gabinetes espaciales de la NASA?"
+    "ID": 38,
+    "Texto": "38 �Te ofrecer�as para colaborar como voluntario en los gabinetes espaciales de la NASA?",
+    "Respuesta": false
   },
   {
-    "pregunta": "39 �Te gusta m�s el trabajo manual que el trabajo intelectual?"
+    "ID": 39,
+    "Texto": "39 �Te gusta m�s el trabajo manual que el trabajo intelectual?",
+    "Respuesta": false
   },
   {
-    "pregunta": "40 �Estar�as dispuesto a renunciar a un momento placentero para ofrecer tu servicio como profesional (ayudando)?"
+    "ID": 40,
+    "Texto": "40 �Estar�as dispuesto a renunciar a un momento placentero para ofrecer tu servicio como profesional (ayudando)?",
+    "Respuesta": false
   },
   {
-    "pregunta": "41 �Participar�as de una investigaci�n sobre la violencia en el f�tbol?"
+    "ID": 41,
+    "Texto": "41 �Participar�as de una investigaci�n sobre la violencia en el f�tbol?",
+    "Respuesta": false
   },
   {
-    "pregunta": "42 �Te gustar�a trabajar en un laboratorio mientras estudias?"
+    "ID": 42,
+    "Texto": "42 �Te gustar�a trabajar en un laboratorio mientras estudias?",
+    "Respuesta": false
   },
   {
-    "pregunta": "43 �Arriesgar�as tu vida para salvar la vida de otro que no conoces?"
+    "ID": 43,
+    "Texto": "43 �Arriesgar�as tu vida para salvar la vida de otro que no conoces?",
+    "Respuesta": false
   },
   {
-    "pregunta": "44 �Te agradar�a hacer un curso de primeros auxilios?"
+    "ID": 44,
+    "Texto": "44 �Te agradar�a hacer un curso de primeros auxilios?",
+    "Respuesta": false
   },
   {
-    "pregunta": "45 �Tolerar�as empezar tantas veces como fuere necesario hasta obtener el logro deseado?"
+    "ID": 45,
+    "Texto": "45 �Tolerar�as empezar tantas veces como fuere necesario hasta obtener el logro deseado?",
+    "Respuesta": false
   },
   {
-    "pregunta": "46 �Distribuyes tu horarios del d�a adecuadamente para poder hacer todo lo planeado?"
+    "ID": 46,
+    "Texto": "46 �Distribuyes tu horarios del d�a adecuadamente para poder hacer todo lo planeado?",
+    "Respuesta": false
   },
   {
-    "pregunta": "47 �Har�as un curso para aprender a fabricar los instrumentos y/o piezas de las m�quinas o aparatos con que trabajas?"
+    "ID": 47,
+    "Texto": "47 �Har�as un curso para aprender a fabricar los instrumentos y/o piezas de las m�quinas o aparatos con que trabajas?",
+    "Respuesta": false
   },
   {
-    "pregunta": "48 �Elegir�as una profesi�n en la tuvieras que estar algunos meses alejado de tu familia, por ejemplo el marino?"
+    "ID": 48,
+    "Texto": "48 �Elegir�as una profesi�n en la tuvieras que estar algunos meses alejado de tu familia, por ejemplo el marino?",
+    "Respuesta": false
   },
   {
-    "pregunta": "49 �Te radicar�as en una zona agr�cola-ganadera para desarrollar tus actividades como profesional?"
+    "ID": 49,
+    "Texto": "49 �Te radicar�as en una zona agr�cola-ganadera para desarrollar tus actividades como profesional?",
+    "Respuesta": false
   },
   {
-    "pregunta": "50 �Cuando est�s en un grupo trabajando, te entusiasma producir ideas originales y que sean tenidas en cuenta?"
+    "ID": 50,
+    "Texto": "50 �Cuando est�s en un grupo trabajando, te entusiasma producir ideas originales y que sean tenidas en cuenta?",
+    "Respuesta": false
   },
   {
-    "pregunta": "51 �Te resulta f�cil coordinar un grupo de trabajo?"
+    "ID": 51,
+    "Texto": "51 �Te resulta f�cil coordinar un grupo de trabajo?",
+    "Respuesta": false
   },
   {
-    "pregunta": "52 �Te result� interesante el estudio de las ciencias biol�gicas?"
+    "ID": 52,
+    "Texto": "52 �Te result� interesante el estudio de las ciencias biol�gicas?",
+    "Respuesta": false
   },
   {
-    "pregunta": "53 �Si una gran empresa solicita un profesional como gerente de comercializaci�n, te sentir�as a gusto desempe�ando ese rol?"
+    "ID": 53,
+    "Texto": "53 �Si una gran empresa solicita un profesional como gerente de comercializaci�n, te sentir�as a gusto desempe�ando ese rol?",
+    "Respuesta": false
   },
   {
-    "pregunta": "54 �Te incluir�as en un proyecto nacional de desarrollo de la principal fuente de recursos de tu provincia?"
+    "ID": 54,
+    "Texto": "54 �Te incluir�as en un proyecto nacional de desarrollo de la principal fuente de recursos de tu provincia?",
+    "Respuesta": false
   },
   {
-    "pregunta": "55 �Tienes inter�s por saber cuales son las causas que determinan ciertos fen�menos, aunque saberlo no altere tu vida?"
+    "ID": 55,
+    "Texto": "55 �Tienes inter�s por saber cuales son las causas que determinan ciertos fen�menos, aunque saberlo no altere tu vida?",
+    "Respuesta": false
   },
   {
-    "pregunta": "56 �Descubriste alg�n fil�sofo o escritor que haya expresado tus mismas ideas con antelaci�n?"
+    "ID": 56,
+    "Texto": "56 �Descubriste alg�n fil�sofo o escritor que haya expresado tus mismas ideas con antelaci�n?",
+    "Respuesta": false
   },
   {
-    "pregunta": "57 �Desear�as que te regalen alg�n instrumento musical para tu cumplea�os?"
+    "ID": 57,
+    "Texto": "57 �Desear�as que te regalen alg�n instrumento musical para tu cumplea�os?",
+    "Respuesta": false
   },
   {
-    "pregunta": "58 �Aceptar�as colaborar con el cumplimiento de las normas en lugares p�blicos?"
+    "ID": 58,
+    "Texto": "58 �Aceptar�as colaborar con el cumplimiento de las normas en lugares p�blicos?",
+    "Respuesta": false
   },
   {
-    "pregunta": "59 �Crees que tus ideas son importantes, y haces todo lo posible para ponerlas en pr�ctica?"
+    "ID": 59,
+    "Texto": "59 �Crees que tus ideas son importantes, y haces todo lo posible para ponerlas en pr�ctica?",
+    "Respuesta": false
   },
   {
-    "pregunta": "60 �Cuando se descompone un artefacto en tu casa, te dispones prontamente a repararlo?"
+    "ID": 60,
+    "Texto": "60 �Cuando se descompone un artefacto en tu casa, te dispones prontamente a repararlo?",
+    "Respuesta": false
   },
   {
-    "pregunta": "61 �Formar�as parte de un equipo de trabajo orientado a la preservaci�n de la flora y la fauna en extinci�n?"
+    "ID": 61,
+    "Texto": "61 �Formar�as parte de un equipo de trabajo orientado a la preservaci�n de la flora y la fauna en extinci�n?",
+    "Respuesta": false
   },
   {
-    "pregunta": "62 �Leer�as revistas relacionadas con los �ltimos avances cient�ficos y tecnol�gicos en el �rea de la salud?"
+    "ID": 62,
+    "Texto": "62 �Leer�as revistas relacionadas con los �ltimos avances cient�ficos y tecnol�gicos en el �rea de la salud?",
+    "Respuesta": false
   },
   {
-    "pregunta": "63 �Preservar las ra�ces culturales de nuestro pa�s, te parece importante y necesario?"
+    "ID": 63,
+    "Texto": "63 �Preservar las ra�ces culturales de nuestro pa�s, te parece importante y necesario?",
+    "Respuesta": false
   },
   {
-    "pregunta": "64 �Te gustar�a realizar una investigaci�n que contribuyera a hacer m�s justa la distribuci�n de la riqueza?"
+    "ID": 64,
+    "Texto": "64 �Te gustar�a realizar una investigaci�n que contribuyera a hacer m�s justa la distribuci�n de la riqueza?",
+    "Respuesta": false
   },
   {
-    "pregunta": "65 �Te gustar�a realizar tareas auxiliares en una nave, como por ejemplo izado y arriado de velas, pintura y conservaci�n del casco, arreglo de aver�as, conservaci�n de motores, etc.?"
+    "ID": 65,
+    "Texto": "65 �Te gustar�a realizar tareas auxiliares en una nave, como por ejemplo izado y arriado de velas, pintura y conservaci�n del casco, arreglo de aver�as, conservaci�n de motores, etc.?",
+    "Respuesta": false
   },
   {
-    "pregunta": "66 �Crees que un pa�s debe poseer la m�s alta tecnolog�a armamentista, a cualquier precio?"
+    "ID": 66,
+    "Texto": "66 �Crees que un pa�s debe poseer la m�s alta tecnolog�a armamentista, a cualquier precio?",
+    "Respuesta": false
   },
   {
-    "pregunta": "67 �La libertad y la justicia son valores fundamentales en tu vida?"
+    "ID": 67,
+    "Texto": "67 �La libertad y la justicia son valores fundamentales en tu vida?",
+    "Respuesta": false
   },
   {
-    "pregunta": "68 �Aceptar�as hacer una pr�ctica pagadas en una industria de productos alimenticios en el sector de control de calidad?"
+    "ID": 68,
+    "Texto": "68 �Aceptar�as hacer una pr�ctica pagadas en una industria de productos alimenticios en el sector de control de calidad?",
+    "Respuesta": false
   },
   {
-    "pregunta": "69 �Consideras que la salud p�blica debe ser prioritaria, gratuita y eficiente para todos?"
+    "ID": 69,
+    "Texto": "69 �Consideras que la salud p�blica debe ser prioritaria, gratuita y eficiente para todos?",
+    "Respuesta": false
   },
   {
-    "pregunta": "70 �Te interesar�a investigar sobre alguna nueva vacuna?"
+    "ID": 70,
+    "Texto": "70 �Te interesar�a investigar sobre alguna nueva vacuna?",
+    "Respuesta": false
   },
   {
-    "pregunta": "71 �En un equipo de trabajo, prefer�s el rol de coordinador?"
+    "ID": 71,
+    "Texto": "71 �En un equipo de trabajo, prefer�s el rol de coordinador?",
+    "Respuesta": false
   },
   {
-    "pregunta": "72 �En una discusi�n entre amigos, te ofreces como mediador?"
+    "ID": 72,
+    "Texto": "72 �En una discusi�n entre amigos, te ofreces como mediador?",
+    "Respuesta": false
   },
   {
-    "pregunta": "73 �Est�s de acuerdo con la formaci�n de un cuerpo de soldados profesionales?"
+    "ID": 73,
+    "Texto": "73 �Est�s de acuerdo con la formaci�n de un cuerpo de soldados profesionales?",
+    "Respuesta": false
   },
   {
-    "pregunta": "74 �Luchar�as por una causa justa hasta las �ltimas consecuencias?"
+    "ID": 74,
+    "Texto": "74 �Luchar�as por una causa justa hasta las �ltimas consecuencias?",
+    "Respuesta": false
   },
   {
-    "pregunta": "75 �Te gustar�a investigar cient�ficamente sobre cultivos agr�colas?"
+    "ID": 75,
+    "Texto": "75 �Te gustar�a investigar cient�ficamente sobre cultivos agr�colas?",
+    "Respuesta": false
   },
   {
-    "pregunta": "76 �Har�as un nuevo dise�o de una prenda pasada de moda, ante una reuni�n?"
+    "ID": 76,
+    "Texto": "76 �Har�as un nuevo dise�o de una prenda pasada de moda, ante una reuni�n?",
+    "Respuesta": false
   },
   {
-    "pregunta": "77 �Visitar�as un observatorio astron�mico para conocer en acci�n el funcionamiento de los aparatos?"
+    "ID": 77,
+    "Texto": "77 �Visitar�as un observatorio astron�mico para conocer en acci�n el funcionamiento de los aparatos?",
+    "Respuesta": false
   },
   {
-    "pregunta": "78 �Dirigir�as el �rea de importaci�n y exportaci�n de una empresa?"
+    "ID": 78,
+    "Texto": "78 �Dirigir�as el �rea de importaci�n y exportaci�n de una empresa?",
+    "Respuesta": false
   },
   {
-    "pregunta": "79 �Te coh�bes/inhibes �cortas- al entrar a un lugar nuevo con gente desconocida?"
+    "ID": 79,
+    "Texto": "79 �Te coh�bes/inhibes �cortas- al entrar a un lugar nuevo con gente desconocida?",
+    "Respuesta": false
   },
   {
-    "pregunta": "80 �Te gratificar�a el trabajar con ni�os?"
+    "ID": 80,
+    "Texto": "80 �Te gratificar�a el trabajar con ni�os?",
+    "Respuesta": false
   },
   {
-    "pregunta": "81 �Har�as el dise�o de un cartel o afiche para una campa�a contra el sida?"
+    "ID": 81,
+    "Texto": "81 �Har�as el dise�o de un cartel o afiche para una campa�a contra el sida?",
+    "Respuesta": false
   },
   {
-    "pregunta": "82 �Dirigir�as un grupo de teatro independiente?"
+    "ID": 82,
+    "Texto": "82 �Dirigir�as un grupo de teatro independiente?",
+    "Respuesta": false
   },
   {
-    "pregunta": "83 �Enviar�as tu curriculum a una empresa automotriz que solicita gerente para su �rea de producci�n?"
+    "ID": 83,
+    "Texto": "83 �Enviar�as tu curriculum a una empresa automotriz que solicita gerente para su �rea de producci�n?",
+    "Respuesta": false
   },
   {
-    "pregunta": "84 �Participar�as en un grupo de defensa internacional dentro de alguna fuerza armada?"
+    "ID": 84,
+    "Texto": "84 �Participar�as en un grupo de defensa internacional dentro de alguna fuerza armada?",
+    "Respuesta": false
   },
   {
-    "pregunta": "85 �Te costear�as tus estudios trabajando en una auditor�a �revisi�n de las cuentas-?"
+    "ID": 85,
+    "Texto": "85 �Te costear�as tus estudios trabajando en una auditor�a �revisi�n de las cuentas-?",
+    "Respuesta": false
   },
   {
-    "pregunta": "86 �Eres de los que defiendes causas perdidas?"
+    "ID": 86,
+    "Texto": "86 �Eres de los que defiendes causas perdidas?",
+    "Respuesta": false
   },
   {
-    "pregunta": "87 �Ante una emergencia epid�mica participar�as en una campa�a brindando tu ayuda?"
+    "ID": 87,
+    "Texto": "87 �Ante una emergencia epid�mica participar�as en una campa�a brindando tu ayuda?",
+    "Respuesta": false
   },
   {
-    "pregunta": "88 �Sabr�as responder que significa ADN o ARN? Se trata de un concepto econ�mico. �Te gusta este tipo de tema?"
+    "ID": 88,
+    "Texto": "88 �Sabr�as responder que significa ADN o ARN? Se trata de un concepto econ�mico. �Te gusta este tipo de tema?",
+    "Respuesta": false
   },
   {
-    "pregunta": "89 �Elegir�as una carrera cuyo instrumento de trabajo fuere la utilizaci�n de un idioma extranjero?"
+    "ID": 89,
+    "Texto": "89 �Elegir�as una carrera cuyo instrumento de trabajo fuere la utilizaci�n de un idioma extranjero?",
+    "Respuesta": false
   },
   {
-    "pregunta": "90 �Trabajar con objetos, m�quinas, te resulta m�s gratificante que trabajar con personas?"
+    "ID": 90,
+    "Texto": "90 �Trabajar con objetos, m�quinas, te resulta m�s gratificante que trabajar con personas?",
+    "Respuesta": false
   },
   {
-    "pregunta": "91 �Te resultar�a gratificante ser asesor contable en una empresa reconocida?"
+    "ID": 91,
+    "Texto": "91 �Te resultar�a gratificante ser asesor contable en una empresa reconocida?",
+    "Respuesta": false
   },
   {
-    "pregunta": "92 �Ante un llamado solidario, te ofrecer�as para cuidar a un enfermo?"
+    "ID": 92,
+    "Texto": "92 �Ante un llamado solidario, te ofrecer�as para cuidar a un enfermo?",
+    "Respuesta": false
   },
   {
-    "pregunta": "93 �Te atrae investigar sobre los misterios del universo, por ejemplo los agujeros negros?"
+    "ID": 93,
+    "Texto": "93 �Te atrae investigar sobre los misterios del universo, por ejemplo los agujeros negros?",
+    "Respuesta": false
   },
   {
-    "pregunta": "94 �El trabajo individual te resulta m�s r�pido y efectivo que el trabajo grupal?"
+    "ID": 94,
+    "Texto": "94 �El trabajo individual te resulta m�s r�pido y efectivo que el trabajo grupal?",
+    "Respuesta": false
   },
   {
-    "pregunta": "95 �Dedicar�as parte de tu tiempo a ayudar a personas con carencias o necesitadas?"
+    "ID": 95,
+    "Texto": "95 �Dedicar�as parte de tu tiempo a ayudar a personas con carencias o necesitadas?",
+    "Respuesta": false
   },
   {
-    "pregunta": "96 �Cuando eliges tu ropa o decoras un ambiente, tienes en cuenta la combinaci�n de los colores, las telas o el estilo de los muebles?"
+    "ID": 96,
+    "Texto": "96 �Cuando eliges tu ropa o decoras un ambiente, tienes en cuenta la combinaci�n de los colores, las telas o el estilo de los muebles?",
+    "Respuesta": false
   },
   {
-    "pregunta": "97 �Te gustar�a trabajar como profesional dirigiendo la construcci�n de una empresa hidroel�ctrica?"
+    "ID": 97,
+    "Texto": "97 �Te gustar�a conocer m�s sobre el fondo del mar, los animales marinos, etc.?",
+    "Respuesta": false
   },
   {
-    "pregunta": "98 �Sabes qu� es el PIB? Se trata de un concepto econ�mico. �Te gusta este tipo de tema?"
+    "ID": 98,
+    "Texto": "98 �Te gustar�a ser un l�der empresarial reconocido en el medio?",
+    "Respuesta": false
+  },
+  {
+    "ID": 99,
+    "Texto": "99 �Participar�as en una investigaci�n sobre el reciclado de los residuos s�lidos urbanos?",
+    "Respuesta": false
+  },
+  {
+    "ID": 100,
+    "Texto": "100 �Te interesa saber c�mo funcionan los procesos que se producen en tu organismo?",
+    "Respuesta": false
   }
 ]
